@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulSomaliya
-- 👀 I’m interested in becoming one of the kind web dev
-- 🌱 I’m currently learning coding basics
-- 💞️ I’m looking to collaborate with a super friendly group of like minded people
+- 👀 I’m interested in becoming one of the kind developer
+- 🌱 I’m currently learning to code
+- 😃 I’m looking to collaborate with like minded people
 - 📫 You can reach me at rahulsomaliya007@gmail.com
 
 <!---
