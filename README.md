@@ -1,3 +1,7 @@
+<h2 align="center">
+  Hi there 👋, I'm Amanda
+</h2>!
+
 - 👋 Hi, I’m @RahulSomaliya
 - 👀 I’m interested in becoming one of the kind developer
 - 🌱 I’m currently learning to code
