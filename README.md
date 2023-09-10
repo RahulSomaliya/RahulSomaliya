@@ -14,8 +14,8 @@
   - React projects
     - Pizza e-commerce ( [Source](https://github.com/RahulSomaliya/react-fast-pizza-app) | [site](https://react-fast-pizza-app.vercel.app/) )
     - react quiz ( [Source](https://github.com/RahulSomaliya/learn-react-quizapp) | [site](https://learn-react-quizapp.vercel.app/) )
-    - Usepopcorn ( [Source](https://github.com/RahulSomaliya/react-usepopcorn) | [site](https://react-use-popcorn.vercel.app/) )
     - Eat-n-split ( [Source](https://github.com/RahulSomaliya/react-eat-n-split) | [site](https://learning-react-eat-n-split.vercel.app/) )
+<!--    - Usepopcorn ( [Source](https://github.com/RahulSomaliya/react-usepopcorn) | [site](https://react-use-popcorn.vercel.app/) ) -->
 
 <hr/>
 
