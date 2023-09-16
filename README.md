@@ -19,6 +19,6 @@
 
 <hr/>
 
-Here's my [resume](https://drive.google.com/file/d/110wBSlQHRw21p9JYbtL-L9T0OzKaeeon/view?usp=drive_link) and [LinkedIn](https://www.linkedin.com/in/rahul-somaliya-ab7608184/)
+Here's my [resume](https://drive.google.com/file/d/110wBSlQHRw21p9JYbtL-L9T0OzKaeeon/view?usp=drive_link) and [LinkedIn](https://www.linkedin.com/in/rahul-somaliya)
 <br>
 Contact me at [somaliyarahul@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=somaliyarahul%40gmail.com)
