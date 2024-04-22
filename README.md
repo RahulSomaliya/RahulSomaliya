@@ -19,6 +19,6 @@
 
 <hr/>
 
-Here's my [resume](https://drive.google.com/file/d/1akYW_u551_9UJTlPe4-D9aBBB4_vAGEF/view?usp=sharing)
+Here's my [resume](https://drive.google.com/file/d/11k4ECSVl7cV_pTg1YKg2yyjwEG5vOZyv/view?usp=sharing)
 <br>
 Contact me at [somaliyarahul@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=somaliyarahul%40gmail.com)
